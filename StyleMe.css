@@ -1,0 +1,33 @@
+#Title
+{
+color: snow;
+}
+h2
+{
+color: gainsboro;
+}
+html
+{
+    background-size: cover;
+    background-image: url("Wlp2.jpg" )  ;
+}
+h3
+{
+color: red;
+}
+*
+{
+text-align: center ;
+}
+p
+{
+color: aliceblue;
+}
+footer
+{
+color: aliceblue;
+}
+a
+{
+color: beige;
+}
